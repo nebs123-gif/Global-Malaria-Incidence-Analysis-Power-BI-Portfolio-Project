@@ -1,7 +1,7 @@
 Global Malaria Incidence Analysis — Power BI Portfolio Project
 
 
-Interactive Power BI dashboard analyzing 23 years of global malaria incidence data (2000-2022) across 152 geographic entities.
+ An Interactive Power BI dashboard analyzing 23 years of global malaria incidence data (2000-2022) across 152 geographic entities.
 
 
  Project Overview
